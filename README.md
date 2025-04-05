@@ -36,3 +36,24 @@ A full-stack real-time chat application built with **MERN Stack**, **Socket.io**
 ```bash
 git clone https://github.com/Sachinkale11/Full-Stack-Chat-App.git
 cd Full-Stack-Chat-App
+```
+### 2. Setup .env File
+
+PORT=5000
+MONGO_DB_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+NODE_ENV=development
+
+### 3. Install Dependencies & Build the App
+
+- npm run build
+- npm run start
+
+## 🧪 Future Improvements
+
+- 📝 **Message notifications**
+- 👥 **Group chats**
+- ✍️ **Typing indicators**
+
+## 💡 Author
+-Made with ❤️ by Your Name

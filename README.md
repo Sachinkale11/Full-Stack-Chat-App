@@ -39,16 +39,19 @@ cd Full-Stack-Chat-App
 ```
 ### 2. Setup .env File
 
+```bash
 PORT=5000
 MONGO_DB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 NODE_ENV=development
+```
 
 ### 3. Install Dependencies & Build the App
 
-- npm run build
-- npm run start
-
+```bash
+npm run build
+npm run start
+```
 ## 🧪 Future Improvements
 
 - 📝 **Message notifications**
@@ -56,4 +59,4 @@ NODE_ENV=development
 - ✍️ **Typing indicators**
 
 ## 💡 Author
--Made with ❤️ by Your Name
+-Made with ❤️ by Sachin Kale

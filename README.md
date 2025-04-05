@@ -25,16 +25,14 @@ A full-stack real-time chat application built with **MERN Stack**, **Socket.io**
 
 ---
 
-## 📷 Demo
+## 🌐 Live Demo
 
-> Add a screenshot or a short screen recording here (optional)
-
----
+👉 The website is live at: https://netflix-clone-gmt5.onrender.com/
 
 ## 🛠️ Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/realtime-chat-app.git
-cd realtime-chat-app
+git clone https://github.com/Sachinkale11/Full-Stack-Chat-App.git
+cd Full-Stack-Chat-App

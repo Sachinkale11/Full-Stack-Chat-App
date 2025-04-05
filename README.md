@@ -27,7 +27,7 @@ A full-stack real-time chat application built with **MERN Stack**, **Socket.io**
 
 ## 🌐 Live Demo
 
-👉 The website is live at: https://netflix-clone-gmt5.onrender.com/
+👉 The website is live at: https://full-stack-chat-app-o7je.onrender.com/
 
 ## 🛠️ Installation
 

@@ -9,7 +9,7 @@ A full-stack real-time chat application built with **MERN Stack**, **Socket.io**
 - **Frontend**: React, TailwindCSS, DaisyUI, Socket.io-client
 - **Backend**: Node.js, Express.js, MongoDB, Socket.io
 - **Authentication**: JSON Web Tokens (JWT)
-- **Deployment**: Deployed using [Your Deployment Platform] (e.g., Heroku, Vercel, Netlify, Render)
+- **Deployment**: Deployed using Render
 
 ---
 
